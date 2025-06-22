@@ -26,8 +26,11 @@ Welcome to **Guess the Number**, a simple Java-based terminal game where your ta
 ---
 ✨ Features
 1.Random number generation
+
 2.Tracks number of attempts
+
 3.Input validation using Java Scanner
+
 4.Simple and user-friendly console interaction
 
 ---
